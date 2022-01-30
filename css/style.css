@@ -10513,3 +10513,10 @@ a, img {
 .mt{
   margin-top: 4rem;
 }
+
+@media (max-width:500px) {
+	.owl-stage .owl-item .active{
+		width: 89vw !important;
+	}
+	
+}
