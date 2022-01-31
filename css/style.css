@@ -10521,6 +10521,9 @@ a, img {
 	
 }
 
-/* .row{
+.m2{
 	margin: 2rem 0;
-} */
+}
+.catch h2{
+	border-bottom: 3px solid red;
+}
