@@ -10519,8 +10519,22 @@ a, img {
 		width: 89vw !important;
 	}
 	
+	.hdn{
+		display: block !important;
+	}
+
+	#testimonial-carousel{
+		display: none;
+	}
+	.de_testi.opt-2 blockquote{
+		opacity: 1;
+	}
+
 }
 
+.hdn{
+	display: none;
+}
 .m2{
 	margin: 2rem 0;
 }
