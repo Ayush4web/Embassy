@@ -10530,6 +10530,21 @@ a, img {
 		opacity: 1;
 	}
 
+	#bgimg{
+		display: none;
+	}
+    
+	.imgres{
+		margin-top:0.5rem ;
+		display: block !important;
+	}
+	.imgres img{
+		
+		width: 100%;
+		background-position: center;
+		background-size: cover;
+	}
+
 }
 
 .hdn{
