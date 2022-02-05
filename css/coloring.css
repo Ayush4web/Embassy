@@ -89,7 +89,9 @@ a.btn-border:hover,
 	background:var(--primary-color);
 }
 
-
+.bg-color-red{
+	background-color: #ed3237;
+}
 
 .id-color,
 #mainmenu li:hover > ul,
